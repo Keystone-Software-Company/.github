@@ -2,7 +2,7 @@
 
 Welcome to the Keystone Community Github Organization!
 Here is were we share all of our high-fidelity, professional, and easy to use software.
-From games, to utilities, and tools, we offer a variety of products you can install in under 5 minutes.
+From utilities to productivity apps, we offer a variety of products you can install in under 5 minutes.
 To look at some of our latest creations, you can go on the repositories page on the menu above.
 
 Along with all of our projects being shared here, we also accept community suggestions and bug reports
